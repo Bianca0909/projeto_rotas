@@ -1,16 +1,22 @@
-# projeto_rotas
+# Projeto de rotas
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-A new Flutter project.
+Trabalho de finalização do curso DEVTISUL - Módulo III (Desenvolvimento Web)
 
-## Getting Started
+## Como Executar
 
-This project is a starting point for a Flutter application.
+1. Clone o repositório e acesse a pasta do projeto
+   ```shell
+   git clone git@github.com:Bianca0909/projeto_rotas.git
+   cd projeto_rotas
+    ```
+2. Instale o <a href="https://docs.flutter.dev/get-started/install">Flutter</a>
+3. Adicione o Flutter às variáveis de ambiente
+   ```shell
+   C:\flutter\
+   ```
+4. Siga as <a href="https://docs.flutter.dev/get-started/editor?tab=vscode">instruções</a> para a configuração do framework em seu respectivo editor de código.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
